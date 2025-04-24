@@ -1,0 +1,32 @@
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+ 
+  .container {
+    text-align: center;
+  }
+  
+
+strong{
+    color: #22D4FD;
+}
+
+span{
+    color: #22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
+
+img {
+    width: 200px; 
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
